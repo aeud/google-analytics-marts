@@ -1,0 +1,5 @@
+project_id = "xxx"
+region = "US"
+google_analytics_dataset_project_id = "xxx"
+google_analytics_property_id = "123"
+destination_dataset_name = "xxx"
